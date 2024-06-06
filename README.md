@@ -6,6 +6,7 @@ Welcome to my Tableau GitHub repository! Here, you'll find various data projects
 
 Feel free to browse through and contribute. Your feedback is appreciated!
 
-!(https://github.com/your-username/your-repo/blob/main/path-to-your-image.png)
+![Banner](./bannerimage.jpg)
+
 
 
